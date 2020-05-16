@@ -50,15 +50,12 @@
     margin-right: 15px;
     font-size: 1.1em;
 }
-
-
 .icons{
     display: flex;
     flex-direction: row;
     padding: 10%;
 
 }
-
 .ico{
     display: flex;
     justify-content: center;
@@ -163,7 +160,7 @@
         font-size: 0.8em;
     }
     .icons{
-        font-size: 1.1em;
+        font-size: 1em;
     }
     /*Col right*/
     .header-right{
